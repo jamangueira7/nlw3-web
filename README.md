@@ -26,6 +26,7 @@
 <p align="center">
   <img alt="Happy" src=".github/happy3.png" width="100%">
 </p>
+
 ## Curso Rocketseat - NLW3
 
 ## 🚀 Tecnologias
